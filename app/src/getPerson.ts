@@ -1,6 +1,3 @@
-import { promises } from 'dns';
-import { resolve } from 'path';
-
 type Person = {
   name: string;
 };
